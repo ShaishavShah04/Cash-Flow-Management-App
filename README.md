@@ -13,7 +13,7 @@ This project was made by a team of 3. The primary development platform we used w
 The **FirebaseVision library** was recently deprecated and most forums online did not reflect this. So we had to thoroughly research the alternative **Firebase Text Recognition library** and put bits and pieces from different websites together to make this app work. 
 
 ## Accomplishments that I'm proud of
-Our team is proud of developing the app interface in a limited time period. As first-year undergraduate students, a big part of this project was self-learning how to code through free tutorials online. We had no experience in Java / android studio prior to this.
+Our team is proud of developing the app interface in a limited time period. At the time, we were first-year undergraduate students. Therefore, a big part of this project was self-learning how to code through free tutorials online. We had no experience in Java / Android Studio prior to this.
 
 ## What we learned
 We learned how to work with Android Studio, the Firebase Platform, and Java. 
